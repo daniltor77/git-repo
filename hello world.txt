@@ -1,3 +1,3 @@
-print("Hello world")
-print("hello evrebody")
-print("hello")
+print("Hello world;")
+print("hello evrebody;")
+print("hello;")
