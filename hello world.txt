@@ -3,4 +3,5 @@ print("hello evrebody;")
 print("hello;")
 print("hello my dear friend;")
 print("Glad to see you;")
-Print("this world is too cruel;")
+print("this world is too soft;")
+
